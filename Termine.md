@@ -1,0 +1,7 @@
+- **Mathe SA:** 11.12.24
+- **Physik KA:** 11.12.24
+- **Ethik KA:** 12.12.24
+- **Mathe Additum KA:** 16.12.24
+- **Deutsch KA:** 17.12.24
+- **Physik SA:** 19.12.24
+- **Chemie KA:** 08.01.25
