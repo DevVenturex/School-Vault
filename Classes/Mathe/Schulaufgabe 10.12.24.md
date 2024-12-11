@@ -5,8 +5,8 @@
 4. Übersicht - Rechnen mit Log/Exp.
 
 ## Checkliste
-- [ ] (2) Graphischer Zusammenhang
-- [ ] (3) Steckbriefaufgaben
-- [ ] (4) Matchdays
-- [ ] (7) Aufgaben mit Parametern
-- [ ] (8) Exponentialfunktionen
+- [x] (2) Graphischer Zusammenhang
+- [x] (3) Steckbriefaufgaben
+- [x] (4) Matchdays
+- [x] (7) Aufgaben mit Parametern
+- [x] (8) Exponentialfunktionen
